@@ -1,6 +1,6 @@
 
 ### Olá! Eu sou Renata Floro 👋
-### Estudante de Análises e Desenvolvimento de Sistemas e aluna da Generation Brasil, em formação para futura Desenvolvedora Fullstack Java Junior 👩‍💻
+### Estudante de Análises e Desenvolvimento de Sistemas e Desenvolvedora Fullstack Java Junior 👩‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-floro/)
 

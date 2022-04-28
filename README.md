@@ -1,6 +1,6 @@
 
 ## Olá, eu sou Renata Floro 👋
-#### 👩‍💻 Desenvolvedora Web Java Jr
+#### 👩‍💻 Desenvolvedora Web Jr
 #### 👩‍💻 Estudante de Análises e Desenvolvimento de Sistemas
 
 <div align="center">

@@ -1,7 +1,7 @@
 
 ## Olá, eu sou Renata Floro 👋
 #### 👩‍💻 Desenvolvedora Web Jr
-#### 👩‍💻 Estudante de Análises e Desenvolvimento de Sistemas
+#### 👩‍💻 Estudante na área de testes e testes automatizados
 
 <div align="center">
   <a href="https://github.com/renatafloro">
